@@ -43,7 +43,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hja29hazBjMmhyeTMwcjI1am1jYmI1ZXV0MzVydW13cXNnNGQwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
