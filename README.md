@@ -1,3 +1,9 @@
+
+![banner sml dev](https://github.com/SamuelSml8/SamuelSml8/assets/127326262/00a2e528-f3a9-4258-845a-e1de2b710766)
+
+
+
+
 <h1 align="center">Hi, I'm Samuel 👋🏽</h1>
 
 ###
