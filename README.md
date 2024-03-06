@@ -1,5 +1,6 @@
 
-![banner sml dev](https://github.com/SamuelSml8/SamuelSml8/assets/127326262/00a2e528-f3a9-4258-845a-e1de2b710766)
+![banner sml dev (1)](https://github.com/SamuelSml8/SamuelSml8/assets/127326262/46d2a215-22d9-4a90-856d-f41f375aeb29)
+
 
 
 
