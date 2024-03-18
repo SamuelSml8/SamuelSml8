@@ -1,13 +1,5 @@
-
-
-
-
-
-
-
-<div align="center">
 ![banner sml dev (2)](https://github.com/SamuelSml8/SamuelSml8/assets/127326262/15319933-dddb-4336-a5e1-b9be6ec4a0f7)
-</div>
+
 
 ###
 
