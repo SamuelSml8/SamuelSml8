@@ -1,6 +1,5 @@
 ![banner sml dev (3)](https://github.com/SamuelSml8/SamuelSml8/assets/127326262/5a84e6c2-1dc7-4994-b43c-26346f26e346)
 
-
 ###
 
 <div align="center">
@@ -79,6 +78,8 @@
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
 ###
@@ -90,6 +91,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SamuelSml8&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelSml8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="210" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelSml8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2&custom_title=Languages" height="130" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelSml8&hide_border=true&theme=github-dark&title_color=a277ff&line=fdc884&point=a277ff&area_color=750275&color=a277ff&bg_color=15141b&hide_title=false" height="175" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=SamuelSml8&theme=kimbie_dark&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
