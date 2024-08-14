@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/samuel-vera-miranda-ba5734271/" target="_blank">
+  <a href="www.linkedin.com/in/samuelsml" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=750275&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCLtRDsRyhDTd5S_sl4gCy1g" target="_blank">
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Samuel. A passionate and young apprentice software developer.<br><br>- ⚡ I’m study in Universidad Pontificia Bolivariana | (Software programming)<br>- 🔭 I’m study in Riwi | (Software development)<br>- 📚 I’m study in Tecnologico de Antioquia | (Software engineering)</p>
+<p align="left">I'm Samuel. A passionate and young apprentice software developer.<br><br>• 🔭 I’m a Software Developer | Riwi<br>• ⚡ I’m a Software Programmer | Universidad Pontificia Bolivariana<br>• 📚 I’m study Software Engineering | I.U Tecnológico de Antioquia</p>
 
 ###
 
@@ -67,11 +67,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamuelSml8&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelSml8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="210" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelSml8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2&custom_title=Languages" height="130" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelSml8&hide_border=true&theme=github-dark&title_color=a277ff&line=fdc884&point=a277ff&area_color=750275&color=a277ff&bg_color=15141b&hide_title=false" height="175" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=SamuelSml8&theme=kimbie_dark&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=SamuelSml8&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&order=3" height="278" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelSml8&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelSml8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2&custom_title=Languages" height="200" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=SamuelSml8&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=2" height="150" alt="trophy graph"  />
 </div>
 
 ###
