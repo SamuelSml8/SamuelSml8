@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Samuel. A passionate and young apprentice software developer.<br><br>• 🔭 I’m a Software Developer | Riwi<br>• ⚡ I’m a Software Programmer | Universidad Pontificia Bolivariana<br>• 📚 I’m study Software Engineering | I.U Tecnológico de Antioquia</p>
+<p align="left">I'm Samuel. A passionate and young software developer.<br><br>• 🔭 I’m a Software Developer | Riwi<br>• ⚡ I’m a Software Programmer | Universidad Pontificia Bolivariana<br>• 📚 I’m study Software Engineering | I.U Tecnológico de Antioquia</p>
 
 ###
 
