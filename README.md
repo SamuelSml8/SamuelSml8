@@ -1,7 +1,9 @@
-<br clear="both">
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="396" src="https://github.com/user-attachments/assets/65a55f3a-e2ec-441c-a0f0-01ee12a401d3"  />
 </div>
 
 ###
@@ -31,48 +33,36 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Samuel, a Software Developer focused on building reliable, scalable, and maintainable software.<br><br>- 💻 Software Developer at **Housy Host**<br>- 🎓 Software Engineering student at **Tecnológico de Antioquia**<br>- ⚙️ Interested in backend development, software architecture, and system design<br>- 🚀 Always learning, building, and improving my engineering skills</p>
+<p data-importer="text" align="left">I'm Samuel, a Software Developer specializing in backend development and building reliable, scalable, and maintainable software systems.<br><br>- 💻 Software Developer at Housy Host<br>- 🎓 Software Engineering student at Tecnológico de Antioquia<br>- ⚙️ Interested in backend development, software architecture, and system design<br>- 🚀 Always learning, building, and improving my engineering skills</p>
 
 ###
 
-<h2 data-importer="text" align="left">🛠 Language and tools</h2>
+## 🛠️ Languages and Tools
 
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=samuelsml8&locale=en&mode=weekly&theme=apprentice&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="160" alt="streak graph"  />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>Backend</h3>
+        <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs" />
+      </td>
+      <td align="center" width="50%">
+        <h3>Databases & Caching</h3>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>Infrastructure & Tools</h3>
+        <img src="https://skillicons.dev/icons?i=docker,gcp,git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira logo" />
+      </td>
+      <td align="center" width="50%">
+        <h3>Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
@@ -82,5 +72,3 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=footer&reversal=true&fontSize=10&fontColor=212121&fontAlign=50&fontAlignY=90&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=10&descAlign=50&descAlignY=90&textBg=false&theme=default"  />
 </div>
-
-###
