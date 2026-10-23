@@ -1,9 +1,8 @@
 
-
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="396" src="https://github.com/user-attachments/assets/65a55f3a-e2ec-441c-a0f0-01ee12a401d3"  />
+<img width="1584" height="396" alt="Banne Software Developer (2)" src="https://github.com/user-attachments/assets/ae67053e-662d-407b-b4c7-bcca551db9c1" />
 </div>
 
 ###
